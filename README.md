@@ -1,6 +1,7 @@
 # 数据可视化项目 (Data Visualization Project)
 
 这是一个数据可视化实践项目，包含多个数据分析与可视化的 Jupyter Notebook 示例。
+如果 GitHub 无法加载，[请点击这里查看 Notebook](https://nbviewer.org/github/captain2003white/dv-for-uber/blob/main/4320251005_ChengJingyun18th-WUTNOV25.ipynb)
 
 ## 📋 项目简介
 
