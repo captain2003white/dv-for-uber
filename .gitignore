@@ -1,0 +1,41 @@
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 大文件（如果不想上传到 GitHub，取消下面的注释）
+# *.csv
+# 或者只排除特定的大文件
+# uber-raw-data-apr14.csv
+# d2.csv
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
